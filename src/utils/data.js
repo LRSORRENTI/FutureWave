@@ -30,31 +30,30 @@ export const HeroData = [
     delay: 0.25,
   },
 ];
-
 export const features = [
   {
     icon: "/features/Frame-0.png",
-    title: "3x monthly revenue",
+    title: "Triple monthly earnings",
   },
   {
     icon: "/features/Frame-1.png",
-    title: "Flat fee of 6-12%",
+    title: "Fixed fee of 6-12%",
   },
   {
     icon: "/features/Frame-2.png",
-    title: "Flexible repayments by revenue share",
+    title: "Revenue-based flexible repayments",
   },
   {
     icon: "/features/Frame-3.png",
-    title: "3-4 years repayment",
+    title: "Repayment over 3-4 years",
   },
   {
     icon: "/features/Frame-4.png",
-    title: "$10-100k seed investment",
+    title: "$10-100k seed funding",
   },
   {
     icon: "/features/Frame-5.png",
-    title: "2% of revenue up to 3X cap",
+    title: "2% of revenue up to a 3X cap",
   },
 ];
 
@@ -62,17 +61,17 @@ export const ourDiffFeatures = [
   {
     icon: "/OurDiff/Frame-0.png",
     title: "Data Driven",
-    des: "Our mission is to level the playing field for early stage growth capital. We provide capital that is unbiased, flexible and non dilutive with the execution support to accelerate value creation",
+    des: "Our mission is to provide fair and flexible early-stage growth capital, without bias or dilution, along with the support to drive value creation.",
   },
   {
     icon: "/OurDiff/Frame-1.png",
-    title: "flexible funding",
-    des: "Funding that flexes as revenue grows with transparent costs and does not require dilution, personal guarantees or pitch decks",
+    title: "Flexible Funding",
+    des: "Funding that scales with your revenue growth, with transparent costs, no dilution, personal guarantees, or pitch decks required.",
   },
   {
     icon: "/OurDiff/Frame-2.png",
-    title: "value accelerating",
-    des: "On demand expertise to supercharge growth in areas that are hard to access for early stage founders",
+    title: "Value Accelerating",
+    des: "Expertise on demand to boost growth in areas that early-stage founders often find challenging to access.",
   },
 ];
 
@@ -80,62 +79,62 @@ export const hitFeatures = [
   {
     icon: "/howItWorks/Frame-0.png",
     title: "Connect",
-    des: "Register and qualify for funding in less than 5 mins. Connect revenue and marketing platforms you already use.",
+    des: "Sign up and qualify for funding in under 5 minutes. Link your existing revenue and marketing platforms.",
   },
   {
     icon: "/howItWorks/Frame-1.png",
     title: "Get Funded",
-    des: "Get a term sheet with upto 3 funding offers. Select option that best suits and complete onboarding to receive funds in days",
+    des: "Receive a term sheet with up to 3 funding offers. Choose the best option and complete onboarding to get funds in a matter of days.",
   },
   {
     icon: "/howItWorks/Frame-2.png",
     title: "Support Growth",
-    des: "Access curated feed of actionable insights and on demand execution expertise. Auto qualify for follow on funding as you grow",
+    des: "Gain access to a curated feed of actionable insights and expert execution on demand. Automatically qualify for follow-up funding as you grow.",
   },
 ];
 
 export const whoWeInvest = [
   {
-    title: "Digital Business Model",
-    des: "Digital business model e.g. SaaS, subscription, D2C, apps",
+    title: "Digital Business Models",
+    des: "Digital business models such as SaaS, subscription services, D2C, and apps.",
   },
   {
     title: "Revenue Generating",
-    des: "Revenue generating for 6 months, > $1k in monthly recurring revenue",
+    des: "Generating revenue for at least 6 months, with over $1k in monthly recurring revenue.",
   },
   {
-    title: "Support Growth",
-    des: "Industry expertise: Fintech, Health, Deep tech, B2B software",
+    title: "Industry Expertise",
+    des: "Expertise in industries like Fintech, Health, Deep tech, and B2B software.",
   },
   {
     title: "International Expansion",
-    des: "Registered in Australia and Singapore (initially) with appetite for international expansion",
+    des: "Registered in Australia and Singapore (initially) with a focus on international expansion.",
   },
 ];
 
 export const testimonialsData = [
   {
     comment:
-      "SUPER HAPPY! Not only do you get to see the best seed and Early Stage companies but the exciting part is there’s a bunch of investors",
-    name: "Zach Lee",
-    profession: "QA specialist, Matrix architect",
+      "THRILLED! Not only do you get exposure to the best seed and early-stage companies, but there’s also a multitude of investors.",
+    name: "John Smith",
+    profession: "Technologist",
   },
   {
     comment:
-      "I have been working with Cotek on our fundraising strategies. They understands the in depth strategies of Venture Capital and early stage fund raising/company",
-    name: "Cheryl R. Weiss",
-    profession: "Founder, Dubrow Cafeteria",
+      "I've been collaborating with Cotek on our fundraising strategies. They understand the intricate strategies of venture capital and early-stage fundraising.",
+    name: "Susan B. Taylor",
+    profession: "Founder, Arch Inc",
   },
   {
     comment:
-      "Another masterpiece really digging into the art of venture funds, portfolio construction and deal mechanics! Loved it - I can say without hesitation that it is incredibly valuable for anyone who is investing",
-    name: "Vicky R. Lane",
-    profession: "Directork, Lafayette Radio",
+      "An outstanding dive into the art of venture funds, portfolio construction, and deal mechanics! Absolutely invaluable for anyone investing.",
+    name: "Mark T. Wilson",
+    profession: "Director, Tela Media",
   },
   {
     comment:
-      "BlueVenture is the premier setting for entrepreneurs and investors alike to exchange ideas, and network. As an entrepreneur, I can rely on the BlueVenture to bring top caliber speakers, entrepreneurs and investors",
-    name: "Jennifer Dubois",
-    profession: "Manager, China Coast",
+      "FutureWave is the top venue for entrepreneurs and investors to exchange ideas and network. As an entrepreneur, I can count on FutureWave to bring top-notch speakers, entrepreneurs, and investors.",
+    name: "Emily Johnson",
+    profession: "Manager, Atlantic Fund",
   },
 ];
