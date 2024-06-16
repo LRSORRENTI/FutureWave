@@ -1,5 +1,12 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+/public/hero/person1.jpg
+/public/hero/person2.jpg
+/public/hero/person3.jpg
+/public/hero/person4.jpg
+/public/hero/person5.jpg
+/public/hero/person6.jpg
+
 # dependencies
 /node_modules
 /.pnp
