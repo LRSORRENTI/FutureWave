@@ -24,7 +24,6 @@
     position: relative;
 }
 
-
 /* left side styling */
 .h-left {
     flex: 1;
@@ -47,7 +46,6 @@
     border-radius: 999px;
     overflow: hidden;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
-    /* box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px; */
 }
 
 .person-pill-bg {
@@ -69,7 +67,6 @@
 }
 
 /* right side styling */
-
 .h-right {
     flex: 1.25;
     display: flex;
@@ -82,7 +79,6 @@
     flex-direction: column;
     gap: 2rem;
     color: var(--secondary-color);
-    /* color: var(--third-color); */
     font-size: 3.5rem;
     font-weight: bolder;
     text-transform: uppercase;
@@ -132,12 +128,20 @@
         width: 80%;
         text-align: center;
     }
-    
+
+    .person-pill {
+        height: 10rem; /* Adjust the height for smaller screens */
+        width: 5rem;   /* Adjust the width for smaller screens */
+    }
+
+    .image-row {
+        gap: 1rem; /* Adjust gap between pills for smaller screens */
+    }
 }
 
 @media (min-width: 768px) {
     .h-container {
-      height: 90vh;
+        height: 90vh;
     }
     .h-wrapper .container {
         padding-top: 5.2rem;
@@ -146,5 +150,3 @@
         max-width: 48rem;
     }
 }
-  
-  
