@@ -9,7 +9,7 @@
     position: fixed;
     box-shadow: 10px 12px 48px rgba(181, 187, 203, .206);
     background: white;
-    top: 0;    
+    top: 0;
 }
 
 .n-container {
@@ -54,7 +54,7 @@
     transition: 0.4s ease-in-out;
 }
 
-.n-menu span:hover{
+.n-menu span:hover {
     transition: 0.4s ease-in-out;
     opacity: 70%;
 }
@@ -77,16 +77,15 @@
         display: none;
     }
     .nm-container {
-        display: block;
-        color: white;
         display: flex;
         align-items: center;
         justify-content: space-between;
         padding: 1rem;
         position: relative;
         background-color: var(--primary-color);
+        color: white;
     }
-    .nm-container>:nth-child(1) {
+    .nm-container > :nth-child(1) {
         font-weight: bold;
     }
     .nm-menu {
@@ -106,7 +105,9 @@
         height: calc(100vh - 3.8rem);
     }
 
-    .nm-menu span {
+    .nm-menu a {
+        color: white;
+        text-decoration: none;
         cursor: pointer;
         transition: 0.4s ease-in-out;
         margin-bottom: 2rem;
@@ -114,11 +115,9 @@
         border-bottom: 1px solid var(--border-color);
     }
 
-    .nm-menu span:hover{
-        transition: 0.4s ease-in-out;
+    .nm-menu a:hover {
         opacity: 70%;
     }
-    
 
     /* .m-funded-button {
         width: 100%;
