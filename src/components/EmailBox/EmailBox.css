@@ -20,7 +20,7 @@
 }
 
 .emailBox>input::placeholder {
-    font-size: 0.8rem;
+    font-size: 1.2rem;
 }
 
 .getFunded {
@@ -34,4 +34,18 @@
     padding: 0rem 2rem;
     border-radius: 999px;
     color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.getFunded:hover {
+    color: rgb(221, 221, 221);
+}
+
+@media (max-width: 590px) { 
+    .emailBox>input::placeholder {
+        font-size: 1rem;
+    }
+    
 }

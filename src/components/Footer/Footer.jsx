@@ -12,7 +12,7 @@ const Footer = () => {
                 </span>
                 <EmailBox />
 
-                <hr/>
+                {/* <hr/>
                 <div className="f-menu">
                     <span>Home</span>
                     <span>What we do</span>
@@ -20,10 +20,10 @@ const Footer = () => {
                     <span>who we invest</span>
                     <span>testimonials</span>
                 </div>
-                <hr />
+                <hr /> */}
 
                 <span className='text'>
-                    Made with love by Cotek Technologies
+                    Made with love by FutureWave Capital
                 </span>
             </div>
         </div>

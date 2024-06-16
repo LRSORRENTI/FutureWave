@@ -1,11 +1,16 @@
 .od-wrapper {
     padding-top: 12rem;
+    /* background-color: red; */
+    /* color: black; */
 }
 
 .od-container {
     display: flex;
     flex-direction: column;
     gap: 2rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 .od-head {
@@ -20,9 +25,11 @@
 }
 
 .od-head .text {
-    color: white;
+    color: #FFF;
+    /* color: var(--border-color); */
     text-align: center;
     max-width: 65%;
+    font-weight: bolder;
 }
 
 .od-features {
@@ -50,6 +57,12 @@
     .od-features {
         flex-direction: column;
     }
+    .od-head .text {
+        color: var(--border-color);
+        font-weight:normal;
+    }
+    
+    
 }
 
 @media (max-width: 590px) {
@@ -57,4 +70,24 @@
         width: 80%;
         margin: auto;
     }
+    .od-container {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        /* display: none; */
+        /* padding-bottom: 1rem;
+        padding-left: 1rem;
+        padding-right: 1rem; */
+    }
+    .od-head .tag {
+        /* color: white; */
+    }
+    
+    .od-head .text {
+        /* color: white; */
+        text-align: center;
+        max-width: 65%;
+        font-size: 20px;
+    }
+    
 }
