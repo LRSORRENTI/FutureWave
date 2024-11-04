@@ -61,17 +61,17 @@ export const ourDiffFeatures = [
   {
     icon: "/OurDiff/Frame-0.png",
     title: "Data Driven",
-    des: "Our mission is to provide fair and flexible early-stage growth capital, without bias or dilution, along with the support to drive value creation.",
+    des: "Our mission is to provide fair and flexible early-stage growth capital, without bias or dilution, along with the support to drive value creation",
   },
   {
     icon: "/OurDiff/Frame-1.png",
     title: "Flexible Funding",
-    des: "Funding that scales with your revenue growth, with transparent costs, no dilution, personal guarantees, or pitch decks required.",
+    des: "Funding that scales with your revenue growth, with transparent costs, no dilution, personal guarantees, or pitch decks required",
   },
   {
     icon: "/OurDiff/Frame-2.png",
     title: "Value Accelerating",
-    des: "Expertise on demand to boost growth in areas that early-stage founders often find challenging to access.",
+    des: "Expertise on demand to boost growth in areas that early-stage founders often find challenging to access",
   },
 ];
 
@@ -79,36 +79,36 @@ export const hitFeatures = [
   {
     icon: "/howItWorks/Frame-0.png",
     title: "Connect",
-    des: "Sign up and qualify for funding in under 5 minutes. Link your existing revenue and marketing platforms.",
+    des: "Sign up and qualify for funding in under 5 minutes. Link your existing revenue and marketing platforms",
   },
   {
     icon: "/howItWorks/Frame-1.png",
     title: "Get Funded",
-    des: "Receive a term sheet with up to 3 funding offers. Choose the best option and complete onboarding to get funds in a matter of days.",
+    des: "Receive a term sheet with up to 3 funding offers. Choose the best option and complete onboarding to get funds in a matter of days",
   },
   {
     icon: "/howItWorks/Frame-2.png",
     title: "Support Growth",
-    des: "Gain access to a curated feed of actionable insights and expert execution on demand. Automatically qualify for follow-up funding as you grow.",
+    des: "Gain access to a curated feed of actionable insights and expert execution on demand. Automatically qualify for follow-up funding as you grow",
   },
 ];
 
 export const whoWeInvest = [
   {
     title: "Digital Business Models",
-    des: "Digital business models such as SaaS, subscription services, D2C, and apps.",
+    des: "Digital business models such as SaaS, subscription services, D2C, and apps",
   },
   {
     title: "Revenue Generating",
-    des: "Generating revenue for at least 6 months, with over $1k in monthly recurring revenue.",
+    des: "Generating revenue for at least 6 months, with over $1k in monthly recurring revenue",
   },
   {
     title: "Industry Expertise",
-    des: "Expertise in industries like Fintech, Health, Deep tech, and B2B software.",
+    des: "Expertise in industries like Fintech, Health, Deep tech, and B2B software",
   },
   {
     title: "International Expansion",
-    des: "Registered in Australia and Singapore (initially) with a focus on international expansion.",
+    des: "Registered in Australia and Singapore (initially) with a focus on international expansion",
   },
 ];
 

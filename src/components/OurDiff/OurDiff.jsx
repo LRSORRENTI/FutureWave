@@ -34,7 +34,7 @@ const OurDiff = () => {
                     className='text'>
                         Our mission is to level the playing field for early stage growth capital
                         <br /> We provide capital that is unbiased, flexible and non
-                        dilutive with the execution support to accelerate value creation.
+                        dilutive with the execution support to accelerate value creation
                     </motion.span>
                 </div>
                 {/* features */}

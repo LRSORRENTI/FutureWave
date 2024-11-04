@@ -35,7 +35,7 @@ const WhatWeDo = () => {
                             whileInView={"onscreen"}
                             variants={desVariants}
                             className='des'
-                        >Here is how we can eveluate</motion.span>
+                        >Here is how we can evaluate</motion.span>
                     </div>
 
                     {/* two blocks */}
@@ -86,7 +86,7 @@ const WhatWeDo = () => {
                                 initial="offscreen"
                                 whileInView={"onscreen"}
                                 className='text'>
-                                Fund one-offs to scale e.g. product, hiring.
+                                Fund one-offs to scale e.g. product, hiring
                             </motion.span>
                             <div className="block-features">
                                 {
@@ -130,7 +130,7 @@ const WhatWeDo = () => {
                             <span className='text'>
                                 On demand execution expertise at cost or revenue share across proposition design
                                 engineering marketing analytics, partnerships, brand, intellectual property, market expansion,
-                                talent management.
+                                talent management
                             </span>
                         </div>
                     </motion.div>
